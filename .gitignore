@@ -1,0 +1,38 @@
+# Virtual environments
+.venv/
+.venv-*/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Model weights and adapters (regenerate with the training pipeline)
+/models/*
+!/models/.gitkeep
+
+# Local tool checkouts and their build output
+/tools/
+experiments/*.out.log
+experiments/*.err.log
+
+# Run logs at the repo root (committed copies live in experiments/logs/)
+/*.log
+/*.err.log
+
+# Node (webgpu demo inside local tool checkouts)
+node_modules/
+
+# Editors and OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db

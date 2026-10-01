@@ -1,0 +1,31 @@
+INFO:     Started server process [24804]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8765 (Press CTRL+C to quit)
+2026-09-24 13:00:51 WARNING: Language tr package default expects mwt, which has been added
+C:\Users\orcun\Documents\code\personal-web-page-2026\career-model\.venv-cpu\lib\site-packages\torch\jit\_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/143 [00:00<?, ?it/s]Loading weights:   8%|7         | 11/143 [00:00<00:01, 91.96it/s]Loading weights:  15%|#4        | 21/143 [00:00<00:01, 87.21it/s]Loading weights:  21%|##        | 30/143 [00:00<00:01, 74.89it/s]Loading weights: 100%|##########| 143/143 [00:00<00:00, 357.58it/s]
+[transformers] You are using a model of type `GLiClass` to instantiate a model of type ``. This may be expected if you are loading a checkpoint that shares a subset of the architecture (e.g., loading a `sam2_video` checkpoint into `Sam2Model`), but is otherwise not supported and can yield errors. Please verify that the checkpoint is compatible with the model you are instantiating.
+[transformers] `use_return_dict` is deprecated! Use `return_dict` instead!
+INFO:argostranslate.utils:('paragraphs:', ['I have approximately nine years of documented PHP experience. I used PHP and CodeIgniter at Ozkula Internet Hizmetleri, built custom PHP application frameworks at AlMultiple, and later worked with Laravel microservices at Turquoise Choice.'])
+INFO:argostranslate.utils:('apply_packaged_translation', 'I have approximately nine years of documented PHP experience. I used PHP and CodeIgniter at Ozkula Internet Hizmetleri, built custom PHP application frameworks at AlMultiple, and later worked with Laravel microservices at Turquoise Choice.')
+INFO:argostranslate.utils:('Splitting sentences using SBD Model: (en) StanzaSentencizer',)
+2026-09-24 13:01:16 WARNING: Language en package default expects mwt, which has been added
+WARNING:stanza:Language en package default expects mwt, which has been added
+INFO:argostranslate.utils:('sentences', ['I have approximately nine years of documented PHP experience.', 'I used PHP and CodeIgniter at Ozkula Internet Hizmetleri, built custom PHP application frameworks at AlMultiple, and later worked with Laravel microservices at Turquoise Choice.'])
+INFO:argostranslate.utils:('tokenized', [['\u2581I', '\u2581have', '\u2581approximately', '\u2581nine', '\u2581years', '\u2581of', '\u2581documented', '\u2581PHP', '\u2581experience', '.'], ['\u2581I', '\u2581used', '\u2581PHP', '\u2581and', '\u2581Code', 'I', 'g', 'ni', 'ter', '\u2581at', '\u2581Oz', 'kul', 'a', '\u2581Internet', '\u2581Hizmetleri', ',', '\u2581built', '\u2581custom', '\u2581PHP', '\u2581application', '\u2581framework', 's', '\u2581at', '\u2581Al', 'Multi', 'ple', ',', '\u2581and', '\u2581later', '\u2581worked', '\u2581with', '\u2581Lara', 'vel', '\u2581micro', 'service', 's', '\u2581at', '\u2581Tur', 'quo', 'ise', '\u2581Choice', '.']])
+INFO:argostranslate.utils:('translated_batches', [TranslationResult(hypotheses=[['\u2581Yakla\u015f\u0131k', '\u2581dokuz', '\u2581y\u0131ll\u0131k', '\u2581belge', 'lenmi\u015f', '\u2581PHP', '\u2581deneyimi', 'm', '\u2581var', '.']], scores=[-1.7563722133636475], attention=[], logits=[]), TranslationResult(hypotheses=[['\u2581PHP', '\u2581ve', '\u2581Code', 'I', 'g', 'ni', 'ter', '\u2581at', '\u2581Oz', 'kul', 'a', '\u2581Internet', '\u2581Services', ',', '\u2581Al', 'Multi', 'ple', "'", 'da', '\u2581özel', '\u2581PHP', '\u2581uygulama', '\u2581çerçeve', 'leri', '\u2581kurdu', 'm', '\u2581ve', '\u2581daha', '\u2581sonra', '\u2581Tur', 'quo', 'ise', '\u2581Choice', "'", 'daki', '\u2581Lara', 'vel', '\u2581mikro', '\u2581servis', 'leriyle', '\u2581çal\u0131\u015ft\u0131', '.']], scores=[-8.04497241973877], attention=[], logits=[])])
+INFO:argostranslate.utils:('value_hypotheses:', [("Yakla\u015f\u0131k dokuz y\u0131ll\u0131k belgelenmi\u015f PHP deneyimim var. PHP ve CodeIgniter at Ozkula Internet Services, AlMultiple'da özel PHP uygulama çerçeveleri kurdum ve daha sonra Turquoise Choice'daki Laravel mikro servisleriyle çal\u0131\u015ft\u0131.", -9.801344633102417)])
+INFO:argostranslate.utils:('translated_paragraphs:', [[("Yakla\u015f\u0131k dokuz y\u0131ll\u0131k belgelenmi\u015f PHP deneyimim var. PHP ve CodeIgniter at Ozkula Internet Services, AlMultiple'da özel PHP uygulama çerçeveleri kurdum ve daha sonra Turquoise Choice'daki Laravel mikro servisleriyle çal\u0131\u015ft\u0131.", -9.801344633102417)]])
+INFO:argostranslate.utils:('hypotheses_to_return:', [("Yakla\u015f\u0131k dokuz y\u0131ll\u0131k belgelenmi\u015f PHP deneyimim var. PHP ve CodeIgniter at Ozkula Internet Services, AlMultiple'da özel PHP uygulama çerçeveleri kurdum ve daha sonra Turquoise Choice'daki Laravel mikro servisleriyle çal\u0131\u015ft\u0131.", -9.801344633102417)])
+INFO:argostranslate.utils:('paragraphs:', ['Fransan\u0131n ba\u015fkenti neresi?'])
+INFO:argostranslate.utils:('apply_packaged_translation', 'Fransan\u0131n ba\u015fkenti neresi?')
+INFO:argostranslate.utils:('Splitting sentences using SBD Model: (tr) StanzaSentencizer',)
+INFO:argostranslate.utils:('sentences', ['Fransan\u0131n ba\u015fkenti neresi?'])
+INFO:argostranslate.utils:('tokenized', [['\u2581Fransa', 'n\u0131n', '\u2581ba\u015fkenti', '\u2581nere', 'si', '?']])
+INFO:argostranslate.utils:('translated_batches', [TranslationResult(hypotheses=[['\u2581Where', '\u2581is', '\u2581the', '\u2581capital', '\u2581of', '\u2581France', '?']], scores=[-1.3084605932235718], attention=[], logits=[])])
+INFO:argostranslate.utils:('value_hypotheses:', [('Where is the capital of France?', -1.3084605932235718)])
+INFO:argostranslate.utils:('translated_paragraphs:', [[('Where is the capital of France?', -1.3084605932235718)]])
+INFO:argostranslate.utils:('hypotheses_to_return:', [('Where is the capital of France?', -1.3084605932235718)])

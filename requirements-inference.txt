@@ -1,0 +1,6 @@
+# Chat API and local GGUF inference (app/server.py, app/ask.py)
+llama-cpp-python>=0.3
+psutil>=6.0
+fastapi>=0.115
+uvicorn[standard]>=0.30
+argostranslate>=1.9

@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "minimum_pass_rate": 0.9,
+  "cases": [
+    {"id":"tr-name-casual","question":"adin ne","language":"Turkish","answer":"yes","required":["orçun","candan"]},
+    {"id":"tr-education-ascii","question":"nerede egitim aldin","language":"Turkish","answer":"yes","required":["yıldız","bilgisayar","2007"]},
+    {"id":"tr-php","question":"php biliyor musun","language":"Turkish","answer":"yes","required":["php","codeigniter","laravel"]},
+    {"id":"tr-ai","question":"ai ile ilgili ne biliyorsun","language":"Turkish","answer":"yes","required":["ai"]},
+    {"id":"tr-location","question":"nerede ikamet ediyorsun","language":"Turkish","answer":"yes","required":["dubai"]},
+    {"id":"en-name","question":"what is your name","language":"English","answer":"yes","required":["orçun","candan"]},
+    {"id":"en-location","question":"where do you live","language":"English","answer":"yes","required":["dubai","uae"]},
+    {"id":"en-typescript","question":"do you know typescript","language":"English","answer":"yes","required":["typescript"]},
+    {"id":"fr-name","question":"Comment vous appelez-vous ?","language":"French","answer":"yes","required":["candan"]},
+    {"id":"fr-location","question":"Où habitez-vous actuellement ?","language":"French","answer":"yes","required":["dubai"]},
+    {"id":"it-name","question":"Come ti chiami?","language":"Italian","answer":"yes","required":["candan"]},
+    {"id":"it-location","question":"Dove vivi attualmente?","language":"Italian","answer":"yes","required":["dubai"]},
+    {"id":"ar-name","question":"ما اسمك؟","language":"Arabic","answer":"yes","required":[]},
+    {"id":"ar-location","question":"أين تقيم حاليًا؟","language":"Arabic","answer":"yes","required":[]},
+    {"id":"negative-angular-tr","question":"angular biliyor musun","language":"Turkish","answer":"insufficient_evidence","required":[]},
+    {"id":"negative-go-en","question":"does orcun know go","language":"English","answer":"insufficient_evidence","required":[]},
+    {"id":"scope-time-tr","question":"saat kaç","language":"Turkish","answer":"insufficient_evidence","required":[]},
+    {"id":"scope-capital-en","question":"what is the capital of france","language":"English","answer":"insufficient_evidence","required":[]},
+    {"id":"hr-summary-tr","question":"Bize biraz kendinden ve kariyerinden bahseder misin?","language":"Turkish","answer":"yes","required":["full-stack","sekiz"]},
+    {"id":"hr-summary-en","question":"Could you briefly introduce your professional background?","language":"English","answer":"yes","required":["engineer","eight"]},
+    {"id":"hr-php-fit-tr","question":"Seni kıdemli bir PHP pozisyonu için neden değerlendirelim?","language":"Turkish","answer":"yes","required":["php","laravel"]},
+    {"id":"hr-frontend-fit-en","question":"What frontend experience would you bring to our team?","language":"English","answer":"yes","required":["typescript","react"]},
+    {"id":"hr-backend-fit-en","question":"What is the strongest evidence of your backend experience?","language":"English","answer":"yes","required":["php"]},
+    {"id":"hr-leadership-en","question":"Have you led an engineering team before?","language":"English","answer":"yes","required":["8"]},
+    {"id":"hr-leadership-tr","question":"Daha önce ekip yönettin mi, kaç kişilikti?","language":"Turkish","answer":"yes","required":["8"]},
+    {"id":"hr-cloud-en","question":"Which cloud platforms have you used professionally?","language":"English","answer":"yes","required":["aws"]},
+    {"id":"hr-devops-tr","question":"DevOps ve CI/CD tarafında nasıl bir deneyimin var?","language":"Turkish","answer":"yes","required":["ci/cd"]},
+    {"id":"hr-ai-stack-en","question":"Which technologies have you used to build local AI systems?","language":"English","answer":"yes","required":["ollama"]},
+    {"id":"hr-ai-rag-tr","question":"Yerel RAG sistemleriyle çalıştın mı?","language":"Turkish","answer":"yes","required":["langchain"]},
+    {"id":"hr-laravel-proof-en","question":"Can you describe your documented Laravel experience?","language":"English","answer":"yes","required":["laravel","microservice"]},
+    {"id":"hr-codeigniter-tr","question":"CodeIgniter kullandığın bir iş veya proje var mı?","language":"Turkish","answer":"yes","required":["codeigniter"]},
+    {"id":"hr-longest-tenure-tr","question":"En uzun süre hangi şirkette çalıştın?","language":"Turkish","answer":"yes","required":["ozkula","yedi"],"forbidden":["ci/cd","azure devops"]},
+    {"id":"hr-longest-tenure-tr-ascii","question":"en uzun sure hangi sirkette calistin","language":"Turkish","answer":"yes","required":["ozkula","2015","2022"],"forbidden":["ci/cd","azure devops"]},
+    {"id":"hr-longest-tenure-en","question":"Which company did you work at the longest?","language":"English","answer":"yes","required":["ozkula","seven"],"forbidden":["ci/cd","azure devops"]},
+    {"id":"hr-linux-en","question":"Do you have hands-on Linux troubleshooting experience?","language":"English","answer":"yes","required":["linux"]},
+    {"id":"hr-database-en","question":"Have you worked with MySQL in your career?","language":"English","answer":"yes","required":["mysql"]},
+    {"id":"hr-education-en","question":"What degree did you complete and where?","language":"English","answer":"yes","required":["associate","yildiz"]},
+    {"id":"hr-relocation-unknown","question":"Are you willing to relocate to London?","language":"English","answer":"insufficient_evidence","required":[]},
+    {"id":"hr-salary-unknown","question":"What salary are you expecting?","language":"English","answer":"insufficient_evidence","required":[]},
+    {"id":"hr-availability-unknown","question":"When can you start a new job?","language":"English","answer":"insufficient_evidence","required":[]},
+    {"id":"hr-age-unknown-tr","question":"Kaç yaşındasın?","language":"Turkish","answer":"insufficient_evidence","required":[]},
+    {"id":"hr-marital-unknown-tr","question":"Evli misin?","language":"Turkish","answer":"insufficient_evidence","required":[]},
+    {"id":"hr-degree-claim-negative","question":"Does Orcun have a master's degree?","language":"English","answer":"insufficient_evidence","required":[]},
+    {"id":"hr-java-negative","question":"Profesyonel Java deneyimin var mı?","language":"Turkish","answer":"insufficient_evidence","required":[]},
+    {"id":"hr-kubernetes-negative","question":"Have you managed Kubernetes in production?","language":"English","answer":"insufficient_evidence","required":[]},
+    {"id":"faith-lord-tr","question":"Rabbin kimdir?","language":"Turkish","answer":"yes","required":["allah"]},
+    {"id":"faith-religion-tr","question":"Dinin nedir?","language":"Turkish","answer":"yes","required":["islam"]},
+    {"id":"faith-prophet-tr","question":"Peygamberin kimdir?","language":"Turkish","answer":"yes","required":["muhammed"]}
+  ],
+  "sequences": [
+    {
+      "id":"no-typescript-leak-into-ai",
+      "turns":[
+        {"question":"typescript biliyor musun","language":"Turkish","answer":"yes","required":["typescript"]},
+        {"question":"ai ile ilgili ne biliyorsun","language":"Turkish","answer":"yes","required":["ai"],"forbidden":["typescript","react"]}
+      ]
+    },
+    {
+      "id":"scope-after-career-question",
+      "turns":[
+        {"question":"kaç yıllık deneyimin var","language":"Turkish","answer":"yes","required":["sekiz"]},
+        {"question":"saat kaç","language":"Turkish","answer":"insufficient_evidence","required":[]}
+      ]
+    },
+    {
+      "id":"location-after-php-question",
+      "turns":[
+        {"question":"php biliyor musun","language":"Turkish","answer":"yes","required":["php"]},
+        {"question":"nerede ikamet ediyorsun","language":"Turkish","answer":"yes","required":["dubai"],"forbidden":["php","laravel"]}
+      ]
+    },
+    {
+      "id":"natural-php-follow-up",
+      "turns":[
+        {"question":"PHP biliyor musun?","language":"Turkish","answer":"yes","required":["php"]},
+        {"question":"Peki bununla hangi şirketlerde çalıştın?","language":"Turkish","answer":"yes","required":["ozkula"],"forbidden":["typescript"]}
+      ]
+    },
+    {
+      "id":"education-then-independent-leadership",
+      "turns":[
+        {"question":"Nerede eğitim aldın?","language":"Turkish","answer":"yes","required":["yıldız"]},
+        {"question":"Daha önce ekip yönettin mi?","language":"Turkish","answer":"yes","required":["8"],"forbidden":["üniversite","2007"]}
+      ]
+    },
+    {
+      "id":"english-to-turkish-language-switch",
+      "turns":[
+        {"question":"Where do you live?","language":"English","answer":"yes","required":["dubai"]},
+        {"question":"PHP deneyimini özetler misin?","language":"Turkish","answer":"yes","required":["php"],"forbidden":["dubai"]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+# Test-only dependencies. The unit suite exercises redaction, split hygiene,
+# scoring, and the API's language/context rules, so it needs no model weights.
+pytest>=8.0
+fastapi>=0.115

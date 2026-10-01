@@ -1,0 +1,693 @@
+{
+  "suite_version": 1,
+  "passed": 42,
+  "total": 54,
+  "pass_rate": 0.7778,
+  "minimum_pass_rate": 0.9,
+  "latency": {
+    "median_seconds": 2.447,
+    "p95_seconds": 6.036,
+    "max_seconds": 8.28
+  },
+  "results": [
+    {
+      "id": "tr-name-casual",
+      "sequence": null,
+      "question": "adin ne",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "Tam adım Orçun Candan."
+      },
+      "latency_seconds": 6.036
+    },
+    {
+      "id": "tr-education-ascii",
+      "sequence": null,
+      "question": "nerede egitim aldin",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "İstanbul’daki Yıldız Teknik Üniversitesi’nde Bilgisayar Teknolojisi ve Programlama önlisans eğitimi aldım (2007-2009)."
+      },
+      "latency_seconds": 3.161
+    },
+    {
+      "id": "tr-php",
+      "sequence": null,
+      "question": "php biliyor musun",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "Evet, PHP biliyorum. Yaklaşık dokuz yıllık deneyimimde CodeIgniter, özel PHP framework’leri ve Laravel mikroservisleriyle çalıştım."
+      },
+      "latency_seconds": 2.527
+    },
+    {
+      "id": "tr-ai",
+      "sequence": null,
+      "question": "ai ile ilgili ne biliyorsun",
+      "passed": false,
+      "reasons": [
+        "missing='ai'"
+      ],
+      "answer": {
+        "answer": "yes",
+        "evidence": "Otomatik uçtan uca CI/CD pipeline’ları geliştirdim ve Azure DevOps üzerinden dağıtım süreçleri kurdum."
+      },
+      "latency_seconds": 5.563
+    },
+    {
+      "id": "tr-location",
+      "sequence": null,
+      "question": "nerede ikamet ediyorsun",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "Dubai, Birleşik Arap Emirlikleri’nde ikamet ediyorum."
+      },
+      "latency_seconds": 2.334
+    },
+    {
+      "id": "en-name",
+      "sequence": null,
+      "question": "what is your name",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "My full name is Orçun Candan."
+      },
+      "latency_seconds": 3.175
+    },
+    {
+      "id": "en-location",
+      "sequence": null,
+      "question": "where do you live",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "I'm currently based in Dubai, UAE."
+      },
+      "latency_seconds": 2.535
+    },
+    {
+      "id": "en-typescript",
+      "sequence": null,
+      "question": "do you know typescript",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "TypeScript is listed in the CV's frontend skills."
+      },
+      "latency_seconds": 1.452
+    },
+    {
+      "id": "fr-name",
+      "sequence": null,
+      "question": "Comment vous appelez-vous ?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "Je m’appelle Orçun Candan."
+      },
+      "latency_seconds": 2.41
+    },
+    {
+      "id": "fr-location",
+      "sequence": null,
+      "question": "Où habitez-vous actuellement ?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "Je réside actuellement à Dubaï, aux Émirats arabes unis."
+      },
+      "latency_seconds": 3.155
+    },
+    {
+      "id": "it-name",
+      "sequence": null,
+      "question": "Come ti chiami?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "Evet, ben Orçun Candan."
+      },
+      "latency_seconds": 2.062
+    },
+    {
+      "id": "it-location",
+      "sequence": null,
+      "question": "Dove vivi attualmente?",
+      "passed": false,
+      "reasons": [
+        "answer='insufficient_evidence'",
+        "missing='dubai'"
+      ],
+      "answer": {
+        "answer": "insufficient_evidence",
+        "evidence": null
+      },
+      "latency_seconds": 1.024
+    },
+    {
+      "id": "ar-name",
+      "sequence": null,
+      "question": "ما اسمك؟",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "اسمي الكامل أورشون جاندان."
+      },
+      "latency_seconds": 1.648
+    },
+    {
+      "id": "ar-location",
+      "sequence": null,
+      "question": "أين تقيم حاليًا؟",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "أقيم حاليًا في دبي، الإمارات العربية المتحدة."
+      },
+      "latency_seconds": 1.375
+    },
+    {
+      "id": "negative-angular-tr",
+      "sequence": null,
+      "question": "angular biliyor musun",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "insufficient_evidence",
+        "evidence": null
+      },
+      "latency_seconds": 0.852
+    },
+    {
+      "id": "negative-go-en",
+      "sequence": null,
+      "question": "does orcun know go",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "insufficient_evidence",
+        "evidence": null
+      },
+      "latency_seconds": 0.976
+    },
+    {
+      "id": "scope-time-tr",
+      "sequence": null,
+      "question": "saat kaç",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "insufficient_evidence",
+        "evidence": null
+      },
+      "latency_seconds": 0.84
+    },
+    {
+      "id": "scope-capital-en",
+      "sequence": null,
+      "question": "what is the capital of france",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "insufficient_evidence",
+        "evidence": null
+      },
+      "latency_seconds": 0.699
+    },
+    {
+      "id": "hr-summary-tr",
+      "sequence": null,
+      "question": "Bize biraz kendinden ve kariyerinden bahseder misin?",
+      "passed": false,
+      "reasons": [
+        "answer='insufficient_evidence'",
+        "missing='full-stack'",
+        "missing='sekiz'"
+      ],
+      "answer": {
+        "answer": "insufficient_evidence",
+        "evidence": null
+      },
+      "latency_seconds": 0.761
+    },
+    {
+      "id": "hr-summary-en",
+      "sequence": null,
+      "question": "Could you briefly introduce your professional background?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "Orcun is a Lead/Senior Full Stack and AI Engineer with over eight years of experience in TypeScript/React frontends, PHP/Node.js backends, AI systems, and engineering leadership."
+      },
+      "latency_seconds": 8.28
+    },
+    {
+      "id": "hr-php-fit-tr",
+      "sequence": null,
+      "question": "Seni kıdemli bir PHP pozisyonu için neden değerlendirelim?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "Evet, PHP’de çalıştım. Yaklaşık dokuz yıllık deneyimimde CodeIgniter, özel PHP framework’leri ve Laravel mikroservisleriyle çalıştım."
+      },
+      "latency_seconds": 3.293
+    },
+    {
+      "id": "hr-frontend-fit-en",
+      "sequence": null,
+      "question": "What frontend experience would you bring to our team?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "I have frontend experience with TypeScript and React."
+      },
+      "latency_seconds": 2.411
+    },
+    {
+      "id": "hr-backend-fit-en",
+      "sequence": null,
+      "question": "What is the strongest evidence of your backend experience?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "I have approximately nine years of backend experience. I built TypeScript/React frontends, PHP/Node.js backends, AI systems, and engineering leadership."
+      },
+      "latency_seconds": 5.632
+    },
+    {
+      "id": "hr-leadership-en",
+      "sequence": null,
+      "question": "Have you led an engineering team before?",
+      "passed": false,
+      "reasons": [
+        "missing='8'"
+      ],
+      "answer": {
+        "answer": "yes",
+        "evidence": "I owned the technical roadmap and led a team of more than eight developers and QA engineers."
+      },
+      "latency_seconds": 2.778
+    },
+    {
+      "id": "hr-leadership-tr",
+      "sequence": null,
+      "question": "Daha önce ekip yönettin mi, kaç kişilikti?",
+      "passed": false,
+      "reasons": [
+        "answer='insufficient_evidence'",
+        "missing='8'"
+      ],
+      "answer": {
+        "answer": "insufficient_evidence",
+        "evidence": null
+      },
+      "latency_seconds": 1.097
+    },
+    {
+      "id": "hr-cloud-en",
+      "sequence": null,
+      "question": "Which cloud platforms have you used professionally?",
+      "passed": false,
+      "reasons": [
+        "missing='aws'"
+      ],
+      "answer": {
+        "answer": "yes",
+        "evidence": "I have professional experience with cloud platforms and systems."
+      },
+      "latency_seconds": 3.138
+    },
+    {
+      "id": "hr-devops-tr",
+      "sequence": null,
+      "question": "DevOps ve CI/CD tarafında nasıl bir deneyimin var?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "Otomatik uçtan uca CI/CD pipeline’ları geliştirdim ve Azure DevOps üzerinden dağıtım süreçleri kurdum."
+      },
+      "latency_seconds": 2.499
+    },
+    {
+      "id": "hr-ai-stack-en",
+      "sequence": null,
+      "question": "Which technologies have you used to build local AI systems?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "I built an air-gapped local RAG system using Ollama, LangChain, and Chroma, and also worked with OpenAI APIs and Claude integrations."
+      },
+      "latency_seconds": 6.301
+    },
+    {
+      "id": "hr-ai-rag-tr",
+      "sequence": null,
+      "question": "Yerel RAG sistemleriyle çalıştın mı?",
+      "passed": false,
+      "reasons": [
+        "answer='insufficient_evidence'",
+        "missing='langchain'"
+      ],
+      "answer": {
+        "answer": "insufficient_evidence",
+        "evidence": null
+      },
+      "latency_seconds": 2.02
+    },
+    {
+      "id": "hr-laravel-proof-en",
+      "sequence": null,
+      "question": "Can you describe your documented Laravel experience?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "I have approximately nine years of documented Laravel experience. I built Laravel microservices at AlMultiple, used Laravel and CodeIgniter together at Turquoise Choice, and recently worked with Laravel and Vue.js at Ozkula Internet Hizmetleri."
+      },
+      "latency_seconds": 7.448
+    },
+    {
+      "id": "hr-codeigniter-tr",
+      "sequence": null,
+      "question": "CodeIgniter kullandığın bir iş veya proje var mı?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "Evet, CodeIgniter kullandım. Otomatik uçtan uca PHP ve CodeIgniter geliştirme deneyimim var. Yaklaşık dokuz yıllık deneyimimde CodeIgniter, özel PHP framework’leri ve Laravel mikroservisleriyle çalıştım."
+      },
+      "latency_seconds": 3.523
+    },
+    {
+      "id": "hr-linux-en",
+      "sequence": null,
+      "question": "Do you have hands-on Linux troubleshooting experience?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "I have more than eight years of hands-on Linux troubleshooting experience. I used Linux systems and troubleshooting skills throughout my career."
+      },
+      "latency_seconds": 4.081
+    },
+    {
+      "id": "hr-database-en",
+      "sequence": null,
+      "question": "Have you worked with MySQL in your career?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "MySQL is listed in the CV's database skills."
+      },
+      "latency_seconds": 2.091
+    },
+    {
+      "id": "hr-education-en",
+      "sequence": null,
+      "question": "What degree did you complete and where?",
+      "passed": false,
+      "reasons": [
+        "answer='insufficient_evidence'",
+        "missing='associate'",
+        "missing='yildiz'"
+      ],
+      "answer": {
+        "answer": "insufficient_evidence",
+        "evidence": null
+      },
+      "latency_seconds": 1.829
+    },
+    {
+      "id": "hr-relocation-unknown",
+      "sequence": null,
+      "question": "Are you willing to relocate to London?",
+      "passed": false,
+      "reasons": [
+        "answer='yes'"
+      ],
+      "answer": {
+        "answer": "yes",
+        "evidence": "I'm currently based in Dubai, UAE."
+      },
+      "latency_seconds": 5.918
+    },
+    {
+      "id": "hr-salary-unknown",
+      "sequence": null,
+      "question": "What salary are you expecting?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "insufficient_evidence",
+        "evidence": null
+      },
+      "latency_seconds": 0.914
+    },
+    {
+      "id": "hr-availability-unknown",
+      "sequence": null,
+      "question": "When can you start a new job?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "insufficient_evidence",
+        "evidence": null
+      },
+      "latency_seconds": 0.885
+    },
+    {
+      "id": "hr-age-unknown-tr",
+      "sequence": null,
+      "question": "Kaç yaşındasın?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "insufficient_evidence",
+        "evidence": null
+      },
+      "latency_seconds": 0.801
+    },
+    {
+      "id": "hr-marital-unknown-tr",
+      "sequence": null,
+      "question": "Evli misin?",
+      "passed": false,
+      "reasons": [
+        "answer='yes'"
+      ],
+      "answer": {
+        "answer": "yes",
+        "evidence": "Evliyimde yaklaşık dokuz yıllık deneyimim var. Bu süre boyunca Full Stack geliştirme, AI sistemleri, altyapı ve mühendislik liderliği alanlarında çalıştım."
+      },
+      "latency_seconds": 5.014
+    },
+    {
+      "id": "hr-degree-claim-negative",
+      "sequence": null,
+      "question": "Does Orcun have a master's degree?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "insufficient_evidence",
+        "evidence": null
+      },
+      "latency_seconds": 1.464
+    },
+    {
+      "id": "hr-java-negative",
+      "sequence": null,
+      "question": "Profesyonel Java deneyimin var mı?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "insufficient_evidence",
+        "evidence": null
+      },
+      "latency_seconds": 3.116
+    },
+    {
+      "id": "hr-kubernetes-negative",
+      "sequence": null,
+      "question": "Have you managed Kubernetes in production?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "insufficient_evidence",
+        "evidence": null
+      },
+      "latency_seconds": 0.923
+    },
+    {
+      "id": "no-typescript-leak-into-ai:typescript biliyor musun",
+      "sequence": "no-typescript-leak-into-ai",
+      "question": "typescript biliyor musun",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "Evet, TypeScript biliyorum. TypeScript ve React ile frontend geliştirme deneyimim var."
+      },
+      "latency_seconds": 1.612
+    },
+    {
+      "id": "no-typescript-leak-into-ai:ai ile ilgili ne biliyorsun",
+      "sequence": "no-typescript-leak-into-ai",
+      "question": "ai ile ilgili ne biliyorsun",
+      "passed": false,
+      "reasons": [
+        "missing='ai'"
+      ],
+      "answer": {
+        "answer": "yes",
+        "evidence": "Otomatik uçtan uca CI/CD pipeline’ları geliştirdim ve Azure DevOps üzerinden dağıtım süreçleri kurdum."
+      },
+      "latency_seconds": 2.094
+    },
+    {
+      "id": "scope-after-career-question:kaç yıllık deneyimin var",
+      "sequence": "scope-after-career-question",
+      "question": "kaç yıllık deneyimin var",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "Sekiz yılı aşkın profesyonel deneyimim var. Full-stack geliştirme, AI sistemleri, altyapı ve mühendislik liderliği alanlarında çalıştım."
+      },
+      "latency_seconds": 5.313
+    },
+    {
+      "id": "scope-after-career-question:saat kaç",
+      "sequence": "scope-after-career-question",
+      "question": "saat kaç",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "insufficient_evidence",
+        "evidence": null
+      },
+      "latency_seconds": 1.06
+    },
+    {
+      "id": "location-after-php-question:php biliyor musun",
+      "sequence": "location-after-php-question",
+      "question": "php biliyor musun",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "Evet, PHP biliyorum. Yaklaşık dokuz yıllık deneyimimde CodeIgniter, özel PHP framework’leri ve Laravel mikroservisleriyle çalıştım."
+      },
+      "latency_seconds": 3.321
+    },
+    {
+      "id": "location-after-php-question:nerede ikamet ediyorsun",
+      "sequence": "location-after-php-question",
+      "question": "nerede ikamet ediyorsun",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "Dubai, Birleşik Arap Emirlikleri’nde ikamet ediyorum."
+      },
+      "latency_seconds": 1.958
+    },
+    {
+      "id": "natural-php-follow-up:PHP biliyor musun?",
+      "sequence": "natural-php-follow-up",
+      "question": "PHP biliyor musun?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "Evet, PHP biliyorum. Yaklaşık dokuz yıllık deneyimimde CodeIgniter, özel PHP framework’leri ve Laravel mikroservisleriyle çalıştım."
+      },
+      "latency_seconds": 2.521
+    },
+    {
+      "id": "natural-php-follow-up:Peki bununla hangi şirketlerde çalıştın?",
+      "sequence": "natural-php-follow-up",
+      "question": "Peki bununla hangi şirketlerde çalıştın?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "PHP’yi Ozkula Internet Hizmetleri, AlMultiple ve Turquoise Choice’daki görevlerimde kullandım; CodeIgniter, özel PHP framework’leri ve Laravel mikroservisleri üzerinde çalıştım."
+      },
+      "latency_seconds": 4.517
+    },
+    {
+      "id": "education-then-independent-leadership:Nerede eğitim aldın?",
+      "sequence": "education-then-independent-leadership",
+      "question": "Nerede eğitim aldın?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "İstanbul’daki Yıldız Teknik Üniversitesi’nde Bilgisayar Teknolojisi ve Programlama önlisans eğitimi aldım (2007-2009)."
+      },
+      "latency_seconds": 3.631
+    },
+    {
+      "id": "education-then-independent-leadership:Daha önce ekip yönettin mi?",
+      "sequence": "education-then-independent-leadership",
+      "question": "Daha önce ekip yönettin mi?",
+      "passed": false,
+      "reasons": [
+        "missing='8'"
+      ],
+      "answer": {
+        "answer": "yes",
+        "evidence": "Orcun’da AI sistemleri geliştirdim ve Ollama, Airflow ve Kusto sistemleri üzerinde çalıştım."
+      },
+      "latency_seconds": 2.482
+    },
+    {
+      "id": "english-to-turkish-language-switch:Where do you live?",
+      "sequence": "english-to-turkish-language-switch",
+      "question": "Where do you live?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "I'm currently based in Dubai, UAE."
+      },
+      "latency_seconds": 2.355
+    },
+    {
+      "id": "english-to-turkish-language-switch:PHP deneyimini özetler misin?",
+      "sequence": "english-to-turkish-language-switch",
+      "question": "PHP deneyimini özetler misin?",
+      "passed": true,
+      "reasons": [],
+      "answer": {
+        "answer": "yes",
+        "evidence": "PHP tarafında yaklaşık dokuz yıllık deneyimim var. Kariyerim boyunca CodeIgniter, özel PHP framework’leri ve Laravel mikroservisleri üzerinde çalıştım."
+      },
+      "latency_seconds": 2.574
+    }
+  ]
+}

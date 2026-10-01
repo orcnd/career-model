@@ -1,0 +1,13 @@
+# Higher-capacity CPU baseline. Expect substantially longer training than 0.5B.
+base_model: Qwen/Qwen2.5-1.5B-Instruct
+output_dir: models/qwen-1.5b-career-lora-cpu
+dataset_dir: data/generated
+learning_rate: 0.00015
+num_train_epochs: 1
+gradient_accumulation_steps: 4
+max_seq_length: 192
+lora_r: 32
+lora_alpha: 64
+lora_dropout: 0.05
+target_modules: [q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj]
+seed: 42

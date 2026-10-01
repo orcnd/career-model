@@ -1,0 +1,6 @@
+# Optional QA layer (app/qa.py): local classifier that screens inputs and outputs.
+# Requires the local checkout in tools/verdict-open-jev, which is not committed.
+# The API fails open without it, so this file is only needed to enable the QA layer.
+gliclass>=0.1.20
+onnxruntime>=1.18
+-e ./tools/verdict-open-jev

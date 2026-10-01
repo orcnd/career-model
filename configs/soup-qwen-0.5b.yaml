@@ -1,0 +1,17 @@
+# Requires: pip install "soup-cli[train]" (Python 3.10-3.12 and a CUDA GPU recommended).
+# Run `soup doctor --config configs/soup-qwen-0.5b.yaml` before a real training run.
+base: Qwen/Qwen2.5-0.5B-Instruct
+task: sft
+data:
+  train: data/generated/train.jsonl
+training:
+  epochs: 4
+  lr: 0.0002
+  batch_size: 1
+  gradient_accumulation_steps: 16
+  max_seq_length: 1024
+  quantization: 4bit
+  lora:
+    r: 16
+    alpha: 32
+output: models/qwen-0.5b-career-lora

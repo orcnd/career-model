@@ -1,0 +1,273 @@
+{"epoch": 1, "step": 5, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 34.31}
+{"epoch": 1, "step": 10, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 66.9}
+{"epoch": 1, "step": 15, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 102.19}
+{"epoch": 1, "step": 20, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 134.26}
+{"epoch": 1, "step": 25, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 167.06}
+{"epoch": 1, "checkpoint_step": 25, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 30, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 199.67}
+{"epoch": 1, "step": 35, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 232.5}
+{"epoch": 1, "step": 40, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 266.02}
+{"epoch": 1, "step": 45, "total_steps": 1135, "loss": 0.0013, "seconds_elapsed": 298.4}
+{"epoch": 1, "step": 50, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 330.79}
+{"epoch": 1, "checkpoint_step": 50, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 55, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 364.33}
+{"epoch": 1, "step": 60, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 396.64}
+{"epoch": 1, "step": 65, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 430.41}
+{"epoch": 1, "step": 70, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 460.89}
+{"epoch": 1, "step": 75, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 491.42}
+{"epoch": 1, "checkpoint_step": 75, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 80, "total_steps": 1135, "loss": 0.0004, "seconds_elapsed": 526.85}
+{"epoch": 1, "step": 85, "total_steps": 1135, "loss": 0.0003, "seconds_elapsed": 561.11}
+{"epoch": 1, "step": 90, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 593.81}
+{"epoch": 1, "step": 95, "total_steps": 1135, "loss": 0.0005, "seconds_elapsed": 627.6}
+{"epoch": 1, "step": 100, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 660.08}
+{"epoch": 1, "checkpoint_step": 100, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 105, "total_steps": 1135, "loss": 0.0004, "seconds_elapsed": 694.26}
+{"epoch": 1, "step": 110, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 725.99}
+{"epoch": 1, "step": 115, "total_steps": 1135, "loss": 0.0025, "seconds_elapsed": 760.47}
+{"epoch": 1, "step": 120, "total_steps": 1135, "loss": 0.9965, "seconds_elapsed": 793.08}
+{"epoch": 1, "step": 125, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 824.15}
+{"epoch": 1, "checkpoint_step": 125, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 130, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 856.27}
+{"epoch": 1, "step": 135, "total_steps": 1135, "loss": 0.0009, "seconds_elapsed": 890.62}
+{"epoch": 1, "step": 140, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 922.72}
+{"epoch": 1, "step": 145, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 954.75}
+{"epoch": 1, "step": 150, "total_steps": 1135, "loss": 0.1114, "seconds_elapsed": 986.24}
+{"epoch": 1, "checkpoint_step": 150, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 155, "total_steps": 1135, "loss": 0.0009, "seconds_elapsed": 1018.65}
+{"epoch": 1, "step": 160, "total_steps": 1135, "loss": 0.0032, "seconds_elapsed": 1051.18}
+{"epoch": 1, "step": 165, "total_steps": 1135, "loss": 0.0022, "seconds_elapsed": 1084.08}
+{"epoch": 1, "step": 170, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 1113.48}
+{"epoch": 1, "step": 175, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 1144.3}
+{"epoch": 1, "checkpoint_step": 175, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 180, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 1178.87}
+{"epoch": 1, "step": 185, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 1215.64}
+{"epoch": 1, "step": 190, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 1245.73}
+{"epoch": 1, "step": 195, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 1281.3}
+{"epoch": 1, "step": 200, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 1311.33}
+{"epoch": 1, "checkpoint_step": 200, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 205, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 1345.14}
+{"epoch": 1, "step": 210, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 1375.86}
+{"epoch": 1, "step": 215, "total_steps": 1135, "loss": 0.0027, "seconds_elapsed": 1406.21}
+{"epoch": 1, "step": 220, "total_steps": 1135, "loss": 0.2705, "seconds_elapsed": 1438.52}
+{"epoch": 1, "step": 225, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 1470.98}
+{"epoch": 1, "checkpoint_step": 225, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 230, "total_steps": 1135, "loss": 0.0013, "seconds_elapsed": 1503.02}
+{"epoch": 1, "step": 235, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 1533.86}
+{"epoch": 1, "step": 240, "total_steps": 1135, "loss": 0.0004, "seconds_elapsed": 1566.46}
+{"epoch": 1, "step": 245, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 1598.66}
+{"epoch": 1, "step": 250, "total_steps": 1135, "loss": 0.0077, "seconds_elapsed": 1630.06}
+{"epoch": 1, "checkpoint_step": 250, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 255, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 1665.19}
+{"epoch": 1, "step": 260, "total_steps": 1135, "loss": 0.0011, "seconds_elapsed": 1697.37}
+{"epoch": 1, "step": 265, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 1727.39}
+{"epoch": 1, "step": 270, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 1759.95}
+{"epoch": 1, "step": 275, "total_steps": 1135, "loss": 0.1054, "seconds_elapsed": 1793.84}
+{"epoch": 1, "checkpoint_step": 275, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 280, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 1827.95}
+{"epoch": 1, "step": 285, "total_steps": 1135, "loss": 0.0047, "seconds_elapsed": 1863.85}
+{"epoch": 1, "step": 290, "total_steps": 1135, "loss": 0.0004, "seconds_elapsed": 1894.51}
+{"epoch": 1, "step": 295, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 1925.4}
+{"epoch": 1, "step": 300, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 1957.31}
+{"epoch": 1, "checkpoint_step": 300, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 305, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 1991.76}
+{"epoch": 1, "step": 310, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 2022.53}
+{"epoch": 1, "step": 315, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 2052.54}
+{"epoch": 1, "step": 320, "total_steps": 1135, "loss": 0.0005, "seconds_elapsed": 2081.88}
+{"epoch": 1, "step": 325, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 2115.62}
+{"epoch": 1, "checkpoint_step": 325, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 330, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 2146.64}
+{"epoch": 1, "step": 335, "total_steps": 1135, "loss": 0.0007, "seconds_elapsed": 2177.24}
+{"epoch": 1, "step": 340, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 2207.37}
+{"epoch": 1, "step": 345, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 2237.08}
+{"epoch": 1, "step": 350, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 2265.76}
+{"epoch": 1, "checkpoint_step": 350, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 355, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 2294.01}
+{"epoch": 1, "step": 360, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 2323.03}
+{"epoch": 1, "step": 365, "total_steps": 1135, "loss": 0.0004, "seconds_elapsed": 2353.3}
+{"epoch": 1, "step": 370, "total_steps": 1135, "loss": 0.495, "seconds_elapsed": 2382.47}
+{"epoch": 1, "step": 375, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 2416.2}
+{"epoch": 1, "checkpoint_step": 375, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 380, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 2450.44}
+{"epoch": 1, "step": 385, "total_steps": 1135, "loss": 0.0037, "seconds_elapsed": 2481.77}
+{"epoch": 1, "step": 390, "total_steps": 1135, "loss": 0.0004, "seconds_elapsed": 2519.68}
+{"epoch": 1, "step": 395, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 2549.1}
+{"epoch": 1, "step": 400, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 2580.46}
+{"epoch": 1, "checkpoint_step": 400, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 405, "total_steps": 1135, "loss": 0.0044, "seconds_elapsed": 2611.68}
+{"epoch": 1, "step": 410, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 2641.26}
+{"epoch": 1, "step": 415, "total_steps": 1135, "loss": 0.0004, "seconds_elapsed": 2672.75}
+{"epoch": 1, "step": 420, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 2704.09}
+{"epoch": 1, "step": 425, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 2733.45}
+{"epoch": 1, "checkpoint_step": 425, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 430, "total_steps": 1135, "loss": 0.0012, "seconds_elapsed": 2764.43}
+{"epoch": 1, "step": 435, "total_steps": 1135, "loss": 0.0004, "seconds_elapsed": 2797.57}
+{"epoch": 1, "step": 440, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 2827.2}
+{"epoch": 1, "step": 445, "total_steps": 1135, "loss": 0.0003, "seconds_elapsed": 2855.88}
+{"epoch": 1, "step": 450, "total_steps": 1135, "loss": 0.0612, "seconds_elapsed": 2889.32}
+{"epoch": 1, "checkpoint_step": 450, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 455, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 2920.88}
+{"epoch": 1, "step": 460, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 2949.28}
+{"epoch": 1, "step": 465, "total_steps": 1135, "loss": 0.0003, "seconds_elapsed": 2978.18}
+{"epoch": 1, "step": 470, "total_steps": 1135, "loss": 0.0029, "seconds_elapsed": 3009.76}
+{"epoch": 1, "step": 475, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 3038.44}
+{"epoch": 1, "checkpoint_step": 475, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 480, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 3068.64}
+{"epoch": 1, "step": 485, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 3097.79}
+{"epoch": 1, "step": 490, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 3128.05}
+{"epoch": 1, "step": 495, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 3158.3}
+{"epoch": 1, "step": 500, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 3190.09}
+{"epoch": 1, "checkpoint_step": 500, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 505, "total_steps": 1135, "loss": 0.0025, "seconds_elapsed": 3222.91}
+{"epoch": 1, "step": 510, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 3253.82}
+{"epoch": 1, "step": 515, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 3284.22}
+{"epoch": 1, "step": 520, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 3315.53}
+{"epoch": 1, "step": 525, "total_steps": 1135, "loss": 0.0069, "seconds_elapsed": 3344.52}
+{"epoch": 1, "checkpoint_step": 525, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 530, "total_steps": 1135, "loss": 0.0003, "seconds_elapsed": 3378.14}
+{"epoch": 1, "step": 535, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 3407.39}
+{"epoch": 1, "step": 540, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 3437.28}
+{"epoch": 1, "step": 545, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 3467.79}
+{"epoch": 1, "step": 550, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 3498.27}
+{"epoch": 1, "checkpoint_step": 550, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 555, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 3527.63}
+{"epoch": 1, "step": 560, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 3557.66}
+{"epoch": 1, "step": 565, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 3586.8}
+{"epoch": 1, "step": 570, "total_steps": 1135, "loss": 0.0019, "seconds_elapsed": 3618.81}
+{"epoch": 1, "step": 575, "total_steps": 1135, "loss": 0.0005, "seconds_elapsed": 3648.26}
+{"epoch": 1, "checkpoint_step": 575, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 580, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 3677.77}
+{"epoch": 1, "step": 585, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 3708.46}
+{"epoch": 1, "step": 590, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 3738.66}
+{"epoch": 1, "step": 595, "total_steps": 1135, "loss": 0.0013, "seconds_elapsed": 3770.39}
+{"epoch": 1, "step": 600, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 3815.55}
+{"epoch": 1, "checkpoint_step": 600, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 605, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 3867.69}
+{"epoch": 1, "step": 610, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 3897.89}
+{"epoch": 1, "step": 615, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 3933.06}
+{"epoch": 1, "step": 620, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 3965.98}
+{"epoch": 1, "step": 625, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 3998.06}
+{"epoch": 1, "checkpoint_step": 625, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 630, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 4030.36}
+{"epoch": 1, "step": 635, "total_steps": 1135, "loss": 0.0013, "seconds_elapsed": 4066.05}
+{"epoch": 1, "step": 640, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 4096.85}
+{"epoch": 1, "step": 645, "total_steps": 1135, "loss": 0.0012, "seconds_elapsed": 4129.55}
+{"epoch": 1, "step": 650, "total_steps": 1135, "loss": 0.0003, "seconds_elapsed": 4160.29}
+{"epoch": 1, "checkpoint_step": 650, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 655, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 4191.93}
+{"epoch": 1, "step": 660, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 4221.43}
+{"epoch": 1, "step": 665, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 4253.91}
+{"epoch": 1, "step": 670, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 4284.86}
+{"epoch": 1, "step": 675, "total_steps": 1135, "loss": 0.0004, "seconds_elapsed": 4314.07}
+{"epoch": 1, "checkpoint_step": 675, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 680, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 4344.9}
+{"epoch": 1, "step": 685, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 4378.01}
+{"epoch": 1, "step": 690, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 4409.54}
+{"epoch": 1, "step": 695, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 4438.6}
+{"epoch": 1, "step": 700, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 4469.29}
+{"epoch": 1, "checkpoint_step": 700, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 705, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 4504.43}
+{"epoch": 1, "step": 710, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 4538.29}
+{"epoch": 1, "step": 715, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 4569.86}
+{"epoch": 1, "step": 720, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 4601.33}
+{"epoch": 1, "step": 725, "total_steps": 1135, "loss": 0.0003, "seconds_elapsed": 4634.92}
+{"epoch": 1, "checkpoint_step": 725, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 730, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 4666.93}
+{"epoch": 1, "step": 735, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 4697.06}
+{"epoch": 1, "step": 740, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 4729.02}
+{"epoch": 1, "step": 745, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 4761.24}
+{"epoch": 1, "step": 750, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 4794.69}
+{"epoch": 1, "checkpoint_step": 750, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 755, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 4826.32}
+{"epoch": 1, "step": 760, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 4857.71}
+{"epoch": 1, "step": 765, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 4887.74}
+{"epoch": 1, "step": 770, "total_steps": 1135, "loss": 0.0022, "seconds_elapsed": 4921.02}
+{"epoch": 1, "step": 775, "total_steps": 1135, "loss": 0.0003, "seconds_elapsed": 4953.76}
+{"epoch": 1, "checkpoint_step": 775, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 780, "total_steps": 1135, "loss": 0.3719, "seconds_elapsed": 4984.66}
+{"epoch": 1, "step": 785, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 5018.25}
+{"epoch": 1, "step": 790, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 5049.54}
+{"epoch": 1, "step": 795, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 5082.89}
+{"epoch": 1, "step": 800, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 5112.89}
+{"epoch": 1, "checkpoint_step": 800, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 805, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 5148.71}
+{"epoch": 1, "step": 810, "total_steps": 1135, "loss": 0.0008, "seconds_elapsed": 5181.01}
+{"epoch": 1, "step": 815, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 5211.47}
+{"epoch": 1, "step": 820, "total_steps": 1135, "loss": 0.0021, "seconds_elapsed": 5246.11}
+{"epoch": 1, "step": 825, "total_steps": 1135, "loss": 0.0011, "seconds_elapsed": 5278.58}
+{"epoch": 1, "checkpoint_step": 825, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 830, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 5310.48}
+{"epoch": 1, "step": 835, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 5344.75}
+{"epoch": 1, "step": 840, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 5380.63}
+{"epoch": 1, "step": 845, "total_steps": 1135, "loss": 0.0004, "seconds_elapsed": 5410.82}
+{"epoch": 1, "step": 850, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 5444.04}
+{"epoch": 1, "checkpoint_step": 850, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 855, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 5476.47}
+{"epoch": 1, "step": 860, "total_steps": 1135, "loss": 0.5197, "seconds_elapsed": 5509.38}
+{"epoch": 1, "step": 865, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 5543.97}
+{"epoch": 1, "step": 870, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 5574.59}
+{"epoch": 1, "step": 875, "total_steps": 1135, "loss": 0.0044, "seconds_elapsed": 5606.5}
+{"epoch": 1, "checkpoint_step": 875, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 880, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 5639.53}
+{"epoch": 1, "step": 885, "total_steps": 1135, "loss": 0.002, "seconds_elapsed": 5672.34}
+{"epoch": 1, "step": 890, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 5708.1}
+{"epoch": 1, "step": 895, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 5741.56}
+{"epoch": 1, "step": 900, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 5775.92}
+{"epoch": 1, "checkpoint_step": 900, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 905, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 5811.6}
+{"epoch": 1, "step": 910, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 5843.32}
+{"epoch": 1, "step": 915, "total_steps": 1135, "loss": 0.0004, "seconds_elapsed": 5874.65}
+{"epoch": 1, "step": 920, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 5906.18}
+{"epoch": 1, "step": 925, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 5937.29}
+{"epoch": 1, "checkpoint_step": 925, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 930, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 5968.79}
+{"epoch": 1, "step": 935, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 5997.94}
+{"epoch": 1, "step": 940, "total_steps": 1135, "loss": 0.0009, "seconds_elapsed": 6033.12}
+{"epoch": 1, "step": 945, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 6066.25}
+{"epoch": 1, "step": 950, "total_steps": 1135, "loss": 0.0008, "seconds_elapsed": 6100.02}
+{"epoch": 1, "checkpoint_step": 950, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 955, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 6134.37}
+{"epoch": 1, "step": 960, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 6166.21}
+{"epoch": 1, "step": 965, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 6196.57}
+{"epoch": 1, "step": 970, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 6228.7}
+{"epoch": 1, "step": 975, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 6264.09}
+{"epoch": 1, "checkpoint_step": 975, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 980, "total_steps": 1135, "loss": 0.0026, "seconds_elapsed": 6297.46}
+{"epoch": 1, "step": 985, "total_steps": 1135, "loss": 0.0003, "seconds_elapsed": 6329.57}
+{"epoch": 1, "step": 990, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 6360.16}
+{"epoch": 1, "step": 995, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 6391.06}
+{"epoch": 1, "step": 1000, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 6421.15}
+{"epoch": 1, "checkpoint_step": 1000, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 1005, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 6454.27}
+{"epoch": 1, "step": 1010, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 6488.66}
+{"epoch": 1, "step": 1015, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 6520.64}
+{"epoch": 1, "step": 1020, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 6557.54}
+{"epoch": 1, "step": 1025, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 6591.72}
+{"epoch": 1, "checkpoint_step": 1025, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 1030, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 6620.86}
+{"epoch": 1, "step": 1035, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 6652.38}
+{"epoch": 1, "step": 1040, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 6679.63}
+{"epoch": 1, "step": 1045, "total_steps": 1135, "loss": 0.243, "seconds_elapsed": 6708.91}
+{"epoch": 1, "step": 1050, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 6737.97}
+{"epoch": 1, "checkpoint_step": 1050, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 1055, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 6768.22}
+{"epoch": 1, "step": 1060, "total_steps": 1135, "loss": 0.0819, "seconds_elapsed": 6797.62}
+{"epoch": 1, "step": 1065, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 6827.9}
+{"epoch": 1, "step": 1070, "total_steps": 1135, "loss": 0.0004, "seconds_elapsed": 6858.36}
+{"epoch": 1, "step": 1075, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 6887.14}
+{"epoch": 1, "checkpoint_step": 1075, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 1080, "total_steps": 1135, "loss": 0.0004, "seconds_elapsed": 6920.25}
+{"epoch": 1, "step": 1085, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 6947.4}
+{"epoch": 1, "step": 1090, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 6976.42}
+{"epoch": 1, "step": 1095, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 7007.98}
+{"epoch": 1, "step": 1100, "total_steps": 1135, "loss": 0.0004, "seconds_elapsed": 7038.29}
+{"epoch": 1, "checkpoint_step": 1100, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 1105, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 7069.08}
+{"epoch": 1, "step": 1110, "total_steps": 1135, "loss": 0.001, "seconds_elapsed": 7099.05}
+{"epoch": 1, "step": 1115, "total_steps": 1135, "loss": 0.0002, "seconds_elapsed": 7129.86}
+{"epoch": 1, "step": 1120, "total_steps": 1135, "loss": 0.0001, "seconds_elapsed": 7157.68}
+{"epoch": 1, "step": 1125, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 7188.04}
+{"epoch": 1, "checkpoint_step": 1125, "output_dir": "C:\\Users\\orcun\\Documents\\code\\personal-web-page-2026\\career-model\\models\\qwen-1.5b-career-lora-cpu"}
+{"epoch": 1, "step": 1130, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 7215.53}
+{"epoch": 1, "step": 1135, "total_steps": 1135, "loss": 0.0, "seconds_elapsed": 7245.22}
+{"epoch": 1, "train_loss": 0.022962406115279697, "seconds_elapsed": 7245.42}
